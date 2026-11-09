@@ -36,5 +36,6 @@
       ├── miniProjek.php   # Mini project formulir data mahasiswa
       └── README.md       # Dokumentasi proyek
 ## miniProjek.php
+akses file miniProjek ini dengan masuk ke url : http://localhost/lab7web/miniProjek.php
 <img width="797" height="1000" alt="2" src="https://github.com/user-attachments/assets/8e13a9c8-47b9-443e-9a0b-dc966b960501" />
 
